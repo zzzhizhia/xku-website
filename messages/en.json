@@ -1,0 +1,190 @@
+{
+  "under_construction": "🚧 This page is currently under construction. Please check back later.",
+  "Error": "Oh crap, something went wrong... give it a refresh?",
+  "NavMenu": {
+    "Home": "Home",
+    "About": "About",
+    "Careers": "Course",
+    "Services": "Services",
+    "Portfolios": "News",
+    "Contact": "Contact",
+    "Gallery": "Gallery",
+    "Shop": "Materials"
+  },
+  "Themes": {
+    "Placeholder": "Select a theme",
+    "Light": "Light",
+    "Dark": "Dark",
+    "System": "System"
+  },
+  "Languages": {
+    "Placeholder": "Select a language",
+    "en": "English",
+    "zh-CN": "简体中文"
+  },
+  "Root": {
+    "Metadata": {
+      "Title": "Sico University",
+      "TitleTemplate": "%s / Sico University",
+      "Description": "Sico University: This is a public welfare educational initiative carried out by the Sico Winter Minecraft Olympics. Our primary purpose is to disseminate knowledge, mainly covering secondary and university cultural courses, as well as some practical courses for the Minecraft Olympics.",
+      "Keywords": "Sico,University,Public,welfare,education,Knowledge,dissemination,Cultural,courses,Secondary,education,Tertiary,education,Practical,courses,Winter,Minecraft,Olympics,Educational,initiative,Academic,programs,Community"
+    }
+  },
+  "Home": {
+    "Heading": "Welcome to Sico University",
+    "Paragraph1": "At <gradient>Sico University</gradient>, we are a <red>public welfare educational initiative</red> carried out by the Sico Winter Minecraft Olympics. Our primary mission is to <b>spread knowledge</b> \uD83E\uDDB8, with courses covering cultural subjects from secondary to college level, plus some practical classes linked to the Minecraft Olympics. We embrace a free atmosphere; anyone can be teachers or learners here, with no barrier to attending classes.",
+    "Caption": "During the New Year event, the Sico University lab building was overjoyed"
+  },
+  "About": {
+    "Title": "About Us",
+    "Description": "Welcome to Sico University, a public welfare educational initiative under the Sico Winter Minecraft Olympics. Our mission is to spread knowledge.",
+    "Heading": "Where knowledge and passion intersect — our origin is to <gradient>enlighten minds and empower the future</gradient>",
+    "Intro": "Welcome to Sico University, a philanthropic educational venture launched by the Sico Winter Minecraft Olympics. Since our founding, we have strived to keep knowledge flowing and nurture future growth \uD83E\uDD84, committed to building platforms for young learners.<br></br><br></br>Here, we believe <b>education is the spark that changes the world</b>🔥. We do more than deliver knowledge — we shape practical capabilities. We have cultural courses spanning secondary to university levels, as well as Minecraft-Olympics–aligned courses covering event management, competition planning, and more.<br></br><br></br>\uD83D\uDC23 <gradient>❄️This is why Sico University was born.</gradient><br></br><br></br>Current situation of campuses and independent colleges: <br></br><br></br>Sico Campus: School of Mathematical Sciences, School of Science, School of Computer Science, Institute of Chemistry, Institute of Astronomy and Theoretical Physics<br></br>Zhazhong Campus: School of Literature and History, School of Arts, Institute of Literature, History, and Art<br></br>School of Life Sciences: Institute of Botany, Institute of Zoology, Institute of Microbiology, Institute of Marine Biodiversity and Evolution<br></br>School of Sports: Olympic Research Center<br></br>",
+    "Founder": {
+      "Title": "Key Figures",
+      "Description": "<b>Su Xiyao:</b> Research fellow and associate professor at CAS, PhD from USTC (the pinnacle of your Olympics credentials), primarily teaches advanced mathematics (though other subjects are fine), an ultimate guru.<br></br><br></br><b>Hantianji Ying:</b> Chemistry major at USTC (still a level you must look up to), mainly teaching chemistry at all levels.<br></br><br></br><b>Hydrogen peroxide:</b> Founder of the Sico organization, a chemistry competitor. You can study alongside him or share your knowledge if you’re strong enough.<br></br><br></br><b>Trident 233:</b> A Minecraft redstone master, you can humbly seek guidance."
+    },
+    "MeetOurTeam": "Faculty Showcase"
+  },
+  "Careers": {
+    "Title": "Join us",
+    "Description": "Are you tired of a dull traditional education model? Join Sico University and build a more vibrant future with us using your thirst for knowledge!",
+    "Heading": "Join us and unleash your <gradient>educational superpowers</gradient> to spark new thinking",
+    "Intro": "Remember the excitement and eagerness of discovering new knowledge for the first time? Here, our mission is to provide more practice and inspiration to ignite your passion for learning. If you believe in constantly breaking through and exploring new ideas, welcome to Sico University. Let’s create incredible educational experiences together — <b>act now and let your enthusiasm take flight!</b> ✨",
+    "Grow": "At Sico University, we believe everyone has <gradient>limitless potential</gradient> to advance and break through. We promise an environment full of opportunities and support where everyone learns from each other and grows together.",
+    "Fun": "<green>Balancing work, study, and life</green> is an important concept we uphold. We strive to make every academic activity or group gathering enjoyable and relaxed, so you can spark more creative ideas.",
+    "Async": "At Sico University, we champion <b>efficient collaboration</b> and <b>open communication</b>. We practice flexible study discussions and hold regular showcases, exploring new territories together.",
+    "Openings": {
+      "Squad": "{squad} Groups - Join QQ groups",
+      "Empty": "QQ Groups: Sico Campus: 789591384 Zhazhong Campus: 229384329 School of Life Sciences: 1003068283 School of Sports: 1007504219 🙌"
+    },
+    "EmploymentType": {
+      "fullTime": "Full-time",
+      "partTime": "Part-time",
+      "contract": "Contract",
+      "internship": "Internship"
+    },
+    "Remote": {
+      "Yes": "Remote",
+      "No": "On-site"
+    },
+    "SeeAllCTA": "Join Sico University",
+    "Back": "Back to Join us",
+    "ApplyCTA": {
+      "Idle": "Apply",
+      "Loading": "Applying...",
+      "Success": "Thank you for the application, we will reach out to you soon!",
+      "Error": "Error while sending application, try again later."
+    },
+    "Details": {
+      "Subtitle": "About us",
+      "Preface": "Like a flock of high-tech birds 🐦, <green>fully remote yet always connected</green>, most of us teach or learn from home, but we do have a great space in 🏙️ <b>Shenzhen</b> for offline collaboration. No matter where we are, we’re all <red>❤️ passionate creators</red>. We love challenges and pour our energy into every course and project. Whether you’re a <b>“coding ninja 🥷”</b> from Tokyo, a <b>“tea connoisseur 🍵”</b> from Hangzhou, or a <b>“dim sum master 🥟”</b> from Hong Kong, if you share our enthusiasm for public education, we look forward to having you on board!",
+      "Application": {
+        "Title": "Apply now",
+        "Tips": "You can also apply by sending us an email via <email>mail@zzzhizhi.top</email>",
+        "About": {
+          "Label": "About you",
+          "Placeholder": "✍\uFE0F Tell us a bit about yourself."
+        },
+        "Resume": {
+          "Add": "Add Resume",
+          "Change": "Change Resume",
+          "FileLimit": "Resume should be PDF files and under 50MB"
+        },
+        "Personal": "Personal information",
+        "FullName": {
+          "Label": "Full name",
+          "Placeholder": "e.g. Tony Stark"
+        },
+        "PreferredName": {
+          "Label": "Preferred name",
+          "Placeholder": "(Leave blank if same as full name)"
+        },
+        "Email": {
+          "Label": "Email address",
+          "Placeholder": "e.g. jackson@wang.com"
+        }
+      }
+    },
+    "Benefits": {
+      "Title": "Course Inspirations",
+      "Content": [
+        "Winter Olympics Live Broadcasting: Practical OBS+GT Streaming Workshop - Student Projects Integrated into Real Curling Match Coverage",
+        "Redstone Digital Workshop: From Basic Circuits to CPU Design - Teaching Computer Principles through Minecraft",
+        "Blockchain Creative Programming: Developing Digital Olympic Badge System - Managing Event Volunteer Points via Smart Contracts",
+        "Ice Boat Command Lab: Bedrock Edition Mod Driving + Track Building - Graduate Ready to Build Virtual Racing Venues",
+        "Interdisciplinary Architecture: Western Villa Modeling with Mechanics Calculations - Student-Designed Ice Sculpture Exhibition Hall Now in Use",
+        "Dynamic Language Classroom: Fifty Sounds Chart Memory Method Evolved into Multi-language Sports Commentary Training System",
+        "Plant Data Visualization: Transforming Botanical Taxonomy Papers into AR Olympic Venue Guide System",
+        "Complete Event Development: From Ice Boat Track Programming to Opening Ceremony AE Animation - Full Olympic Project Pipeline"
+      ]
+    },
+    "OurStacks": {
+      "Title": "Wild Ideas",
+      "Content": [
+        "Virtual-Physical Synthesis Classroom: Teaching Digital Logic with Redstone Circuits, Explaining Historical Records through AE Animation",
+        "Event Sandbox System: Complete Winter Olympics Tech Stack from Ice Boat Programming to Live Broadcasting",
+        "Interdisciplinary Fusion: Blockchain Crypto Art Exhibition + Botanical Data Visualization Featured in Graduation Show",
+        "Legacy Activation: Dynamic Graphics Created by Alumni using GT Now Playing in Winter Olympics Memorial Hall",
+        "Command-Based Teaching: Controlling Opening Ceremony Light Shows via Command Line - Code as a New Artistic Medium",
+        "Architectural Formula: Western Villa Modeling Assignments Applied to Community Senior Center Renovation",
+        "Language Laboratory: Fifty Sounds Chart Method Evolving into Multi-language Sports Broadcasting Training",
+        "Eco Workbench: Plant Classification Data Integration for Ice Venue Climate Control System Optimization",
+        "Mixed-Age Workshop: Art Freshmen and CS Seniors Collaborating on AR Guide App Development",
+        "Museum of Failures: From Redstone Circuit Crashes to Japanese Listening Mishaps - All Become Teaching Cases",
+        "Dynamic Assessment Network: Using Blockchain to Track Knowledge Point Mastery Paths",
+        "Minimalist Package: Educational Revolution - Professional Event Broadcasting with just OBS and Mobile Phone"
+      ]
+    },
+    "OurTools": {
+      "Title": "Our Tools:",
+      "Content": [
+        "QQ: Our go-to platform for everything - from course discussions to sharing the latest news! 💬",
+        "GitHub: First-class repository for learning materials and open source projects 🚀",
+        "Various Meeting Apps: Screen sharing for online classes 🖥️"
+      ]
+    }
+  },
+  "Portfolios": {
+    "Title": "Works Gallery",
+    "Heading": "Works Gallery: let’s witness our <gradient>uniquely remarkable</gradient> projects together",
+    "Description": "Feel free to explore our showcase and see the outstanding works we’ve been part of.",
+    "Intro": "Welcome to Sico University's <gradient>educational experiment space</gradient>, where knowledge transforms into action with each leap forward. We believe real learning isn’t about filling minds but about lighting a <green>torch of problem-solving</green>. Here, cultural courses lay solid academic foundations, while practical projects allow knowledge to flourish in realistic scenarios — bridging abstract concepts and real-world challenges❄️.",
+    "Card": {
+      "LearnMoreCTA": "Learn more",
+      "VisitCTA": "Visit website"
+    },
+    "Details": {
+      "Subtitle": "Portfolio"
+    }
+  },
+  "Contact": {
+    "Title": "Contact us",
+    "Heading": "Contact us: <gradient>look forward to sparking ideas with you</gradient>",
+    "Description": "We are always looking for opportunities to collaborate with like-minded folks. Whether you have a project to discuss or just want to say hi, we’d love to hear from you 👏.",
+    "Tips": "You can also reach out via email at <email>mail@zzzhizhi.top</email>.",
+    "Form": {
+      "Message": {
+        "Label": "Leave a message",
+        "Placeholder": "Let us know what your needs are or just say hi \uD83D\uDC4B"
+      },
+      "FullName": {
+        "Label": "Full name",
+        "Placeholder": "e.g. Tony Stark"
+      },
+      "Email": {
+        "Label": "Email address",
+        "Placeholder": "e.g. tony@avengers.com"
+      },
+      "Submit": {
+        "Idle": "Send",
+        "Sending": "Sending...",
+        "Success": "Message sent, we'll get back to you soon!",
+        "Error": "Something went wrong, please try again later."
+      }
+    }
+  },
+  "Copyright": {
+    "Text": "© {year} - Sico University."
+  }
+}
