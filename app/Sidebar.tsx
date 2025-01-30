@@ -33,7 +33,7 @@ const links = [
   { href: '/portfolios', label: 'Portfolios', icon: TbCarouselHorizontal },
   // { href: '/services', label: 'Services', icon: TbAugmentedReality2 },
   { href: '/contact', label: 'Contact', icon: TbMailbox },
-  { href: 'https://github.com/orgs/sico-university/repositories', label: 'Shop', icon: ShopIcon },
+  { href: 'https://github.com/orgs/sico-university/repositories', label: 'Shop', icon: ShopIcon, },
   // { href: '/gallery', label: 'Gallery', icon: TbPhoto },
 ]
 const social = [
