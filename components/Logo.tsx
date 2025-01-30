@@ -8,7 +8,12 @@ export function Logo({ className }: { className?: string }) {
       alt="Logo"
       width={1264}
       height={1329}
-      className={clsxm('w-6 group-hover:rotate-45 transition-transform', className)}
+      className={clsxm(
+        'w-6',
+        'transition-transform',
+        'group-hover:rotate-45',
+        className
+      )}
     />
   )
 }

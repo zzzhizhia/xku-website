@@ -184,7 +184,6 @@ function MemberCard({ member }: { member: Member }) {
         <time className="select-none rounded-lg border border-stone-400/40 p-1 text-xs text-[var(--accent)] opacity-50 [transform:translateZ(60px)] dark:border-stone-600/50">
           {joined}
         </time>
-
       </footer>
     </Tilt>
   )
