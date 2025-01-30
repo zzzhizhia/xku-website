@@ -29,8 +29,8 @@ import { UploadButton } from 'react-uploader'
 import Balancer from 'react-wrap-balancer'
 import { toast } from 'sonner'
 import { Uploader, type UploadWidgetResult } from 'uploader'
-import OlympicClass from './olympic-class.png'
 import HistoryClass from './history-class.png'
+import OlympicClass from './olympic-class.png'
 
 function makeJobLink(job: Job) {
   return `/careers/${job.__i18n_base?._ref ?? job._id}`
